@@ -27,6 +27,8 @@ Databases: the easy way.
   <dd> subset of the database </dd>
   <dt> database constraint </dt>
   <dd> a restriction on what can be entered into a certain value for a data element </dd>
+  <dt> data independence </dt>
+  <dd> changing the organization of the database doesn't affect apps relying on the database </dd>
   
 </dl>
 
@@ -47,6 +49,13 @@ This type of system has problems with:
 - __Integrity constraints__: Enforce data integrity by only allowing certain data in certain fields
 - __Access control__: For security, different users have different levels of access to read and write for example
 - __Transaction processing__: data is consistent and valid while multiple users perform the same transaction
+
+## Data modeling
+
+The first step of database design is to describe:
+- the data contained in the database
+- the relationships between data elements
+- the database constraints for given data elements
 
 ### Credit
 

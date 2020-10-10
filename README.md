@@ -79,6 +79,22 @@ These are the most common databases, like Oracle and MySQL. They describe the wo
 
 There's a lot of synonyms. Relation = table = file. Row = tuple = record. Column = attribute = field. [Normalization](https://dev.to/nexttech/database-normalization-explained-5b1a) is also important for relational databases.
 
+## Object Relational Mapping
+
+## N+1 Problem
+
+## Sharding
+
+## CAP Theorem
+
+## ACID
+
+## BASE
+
+## CALM
+
+## Convergent Replicated Data Types (CRDTs)
+
 ### Credit
 
 Notes from: 

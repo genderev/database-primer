@@ -59,4 +59,6 @@ The first step of database design is to describe:
 
 ### Credit
 
-Notes from [Database Design](https://opentextbc.ca/dbdesign01/) and [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html).
+Notes from: 
+- [Database Design](https://opentextbc.ca/dbdesign01/) 
+- [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)

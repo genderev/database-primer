@@ -1,9 +1,9 @@
-# database-primer
+# database primer 📓
 Databases: the easy way.
 
 
 
-## The basics
+## The basics 📙
 
 <dl>
 

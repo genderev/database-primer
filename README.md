@@ -1,9 +1,9 @@
-# database primer 📓
+# database primer 
 Databases: the easy way.
 
 
 
-## The basics 📙
+## terms 📙
 
 <dl>
 
@@ -26,6 +26,8 @@ Databases: the easy way.
   <dd>maintaining that data in the database is consistent and correct</dd>
   <dt> data redundancy </dt>
   <dd> when you have to update one value at multiple places </dd>
+  <dt> database management system (DBMS) </dt>
+  <dd> enables its users to create and control databases </dd>
   
   
 </dl>
@@ -37,9 +39,8 @@ In the beginning, there were file-based systems - data stored in files.
 This type of system has problems with:
 - __Data redundancy:__ same information kept in different files
 - __Data isolation:__ difficult for new apps to find data
-- __Data integrity__
-- __Security__
 - __Concurrency:__ only one process can access a file at any given time
+
 
 
 

@@ -73,7 +73,7 @@ These are the most common databases, like Oracle and SQL. They describe the worl
 - __degree__: number of columns in a table
 - __atomic value__: A piece of data in a database table that cannot be broken down any further
 - __domain__: original sets of atomic values used to model data; set of acceptable values a column can contain
-- __structured query language (SQL)__:
+- __structured query language (SQL)__: most common language for accessing databases
 - __tuple__: another way of saying _row_ or _record_
 - __row:__ literally a row in the table; you could also say _record_
 

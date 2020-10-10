@@ -66,7 +66,7 @@ The first step of database design is to describe:
 
 ## Relational databases
 
-These are the most common databases, like Oracle and SQL. They describe the world as “a collection of inter-related relations (or tables).”
+These are the most common databases, like Oracle and MySQL. They describe the world as “a collection of inter-related relations (or tables).”
 
 - __table__: also known as relation or file; a database is composed of multiple tables and tables hold data
 - __attribute__: another word to describe table columns; basic components of data into which your content can be broken down 

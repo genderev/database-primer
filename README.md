@@ -61,7 +61,7 @@ The first step of database design is to describe:
 - __distributed:__ database and DBMS software distributed through multiple sites
 - __heterogenous distributed:__ different sites use different DBMS software, but they exchange info using additional software
 - __multiuser:__ supports multiple users concurrently
-- __single-user:__ does not support multiple users conccurently 
+- __single-user:__ does not support multiple users concurently 
 - __object-oriented:__ DBMS represents info in the form of objects
 
 ## Relational databases

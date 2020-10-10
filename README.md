@@ -25,6 +25,8 @@ Databases: the easy way.
   <dd> enables its users to create and control databases </dd>
   <dt> view </dt>
   <dd> subset of the database </dd>
+  <dt> database constraint </dt>
+  <dd> a restriction on what can be entered into a certain value for a data element </dd>
   
 </dl>
 
@@ -37,12 +39,14 @@ This type of system has problems with:
 - __Data isolation:__ difficult for new apps to find data
 - __Concurrency:__ only one process can access a file at any given time
 
-## Life with databases ➡️ 🎉
+## Benefits of databases
 
 - __Support for multiple views:__ you can retrieve only the info you want and _only_ that info
 - __Multiuser system__: Concurrency control strategies mean more than one person can access the database at a time
 - __Data redundancy control__: Ideally, each data item is stored at _one place_ in the database
 - __Integrity constraints__: Enforce data integrity by only allowing certain data in certain fields
+- __Access control__: For security, different users have different levels of access to read and write for example
+- __Transaction processing__: data is consistent and valid while multiple users perform the same transaction
 
 ### Credit
 

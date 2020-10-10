@@ -6,7 +6,6 @@ Databases: the easy way.
 ## terms 📙
 
 <dl>
-
   <dt>concurrency</dt>
   <dd>multiple users can access a record without anything bad happening</dd>
   <dt>concurrency control strategies</dt>
@@ -29,7 +28,6 @@ Databases: the easy way.
   <dd> a restriction on what can be entered into a certain value for a data element </dd>
   <dt> data independence </dt>
   <dd> changing the organization of the database doesn't affect apps relying on the database </dd>
-  
 </dl>
 
 
@@ -56,6 +54,30 @@ The first step of database design is to describe:
 - the data contained in the database
 - the relationships between data elements
 - the database constraints for given data elements
+
+## DBMS types
+
+- __centralized:__ database and DBMS software stored at one site
+- __distributed:__ database and DBMS software distributed through multiple sites
+- __heterogenous distributed:__ different sites use different DBMS software, but they exchange info using additional software
+- __multiuser:__ supports multiple users concurrently
+- __single-user:__ does not support multiple users conccurently 
+- __object-oriented:__ DBMS represents info in the form of objects
+
+## Relational databases
+
+These are the most common databases, like Oracle and SQL. They describe the world as “a collection of inter-related relations (or tables).”
+
+- __table__: also known as relation or file; a database is composed of multiple tables and tables hold data
+- __attribute__: another word to describe table columns; basic components of data into which your content can be broken down 
+- __degree__: number of columns in a table
+- __atomic value__: A piece of data in a database table that cannot be broken down any further
+- __domain__: original sets of atomic values used to model data; set of acceptable values a column can contain
+- __structured query language (SQL)__:
+- __tuple__: another way of saying _row_ or _record_
+- __row:__ literally a row in the table; you could also say _record_
+
+There's a lot of synonyms. Relation = table = file. Row = tuple = record. Column = attribute = field.
 
 ### Credit
 

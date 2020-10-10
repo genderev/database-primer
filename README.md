@@ -77,7 +77,7 @@ These are the most common databases, like Oracle and MySQL. They describe the wo
 - __tuple__: another way of saying _row_ or _record_
 - __row:__ literally a row in the table; you could also say _record_
 
-There's a lot of synonyms. Relation = table = file. Row = tuple = record. Column = attribute = field. [Normalization](https://dev.to/nexttech/database-normalization-explained-5b1a) is also important for relational databases. [This](https://github.com/8483/notes#database) is how you actually use MySQL.
+There's a lot of synonyms. Relation = table = file. Row = tuple = record. Column = attribute = field. [This](https://github.com/8483/notes#database) is how you actually use MySQL.
 
 ## Object Relational Mapping
 

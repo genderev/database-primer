@@ -80,21 +80,21 @@ These are the most common databases, like Oracle and MySQL. They describe the wo
 There's a lot of synonyms. Relation = table = file. Row = tuple = record. Column = attribute = field. [This](https://github.com/8483/notes#database) is how you actually use MySQL.
 
 ## Object Relational Mapping
-
+todo
 ## N+1 Problem
-
+todo
 ## Sharding
-
+todo
 ## CAP Theorem
-
+todo
 ## ACID
-
+todo
 ## BASE
-
+todo
 ## CALM
-
+todo
 ## Convergent Replicated Data Types (CRDTs)
-
+todo
 ### Credit
 
 Notes from: 
